@@ -1,0 +1,40 @@
+1. Software engineering, from the perspective of software engineers, refers to the systematic approach of designing, developing, testing, and maintaining software 
+   applications or systems. It involves applying engineering principles and methodologies to ensure the quality, reliability, and efficiency of software products.
+
+
+2. The Software Development Life Cycle (SDLC) is a structured process followed by software development teams to design, develop, test, and deploy software products. 
+   Here are the steps typically involved in SDLC:
+
+   a. *Requirement Analysis:* Gather and document user requirements for the software.
+   b. *Design:* Create a detailed design of the software architecture, modules, and components.
+   c. *Implementation:* Develop the software code based on the design specifications.
+   d. *Testing:* Verify and validate the software to ensure it meets the requirements and is free of defects.
+   e. *Deployment:* Release the software for use by end-users.
+   f. *Maintenance:* Provide ongoing support, updates, and enhancements to the software as needed.
+
+3. *Software Engineering:*
+	1. *Definition:* Software engineering is a discipline that deals with designing, developing, and maintaining software systems.
+	2. *Focus:* It focuses on the systematic approach to building software, including processes, methodologies, tools, and best practices.
+	3. *Activities:* Involves requirements analysis, design, coding, testing, deployment, and maintenance of software systems.
+	4. *Goal:* Aims to produce high-quality software that meets user needs, is reliable, scalable, maintainable, and cost-effective.
+	5. *Scope:* Includes various roles such as software developers, testers, architects, project managers, and quality assurance professionals.
+
+   *Software Engineer:*
+	1. *Role:* A software engineer is an individual who applies engineering principles and practices to develop software solutions.
+	2. *Responsibilities:* Involves designing software, writing code, testing applications, debugging issues, and collaborating with teams.
+	3. *Skills:* Requires technical skills like programming languages, software development tools, problem-solving abilities, and communication skills.
+	4. *Expertise:* Can specialize in areas like web development, mobile app development, database management, or systems integration.
+	5. *Education:* Typically has a degree in computer science, software engineering, or related fields, along with ongoing learning and skill development.
+
+4. *Waterfall Model:*
+   The waterfall model is a sequential software development process that follows a linear and rigid approach. Here are its main phases:
+   - *Requirements Gathering:* Collect and document system requirements.
+   - *System Design:* Create a detailed system design based on the requirements.
+   - *Implementation:* Develop the software based on the design.
+   - *Testing:* Verify and validate the software for correctness and quality.
+   - *Deployment:* Release the software to users.
+   - *Maintenance:* Provide ongoing support and updates.
+
+5. *Validation vs. Verification:*
+   - *Validation:* Ensures that the software meets the customer's needs and requirements. It answers the question, "Are we building the right product?"
+   - *Verification:* Confirms that the software adheres to its specifications and requirements. It answers the question, "Are we building the product right?"
